@@ -1,0 +1,16 @@
+﻿<i class="@ClassName"
+   data-icon="@DataIconName"
+   style="font-size:@FontSize;">
+    @ChildContent
+</i>
+
+@code {
+    [Parameter]
+    public string ClassName { get; set; } = "oi iconify";
+    [Parameter]
+    public string DataIconName { get; set; } = "flat-color-icons:graduation-cap";
+    [Parameter]
+    public string FontSize { get; set; } = "10px";
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

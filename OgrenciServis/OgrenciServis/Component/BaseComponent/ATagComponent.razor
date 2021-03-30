@@ -1,0 +1,14 @@
+﻿<a class="@ClassName" href="@HrefName">
+    @ChildContent
+</a>
+
+@code {
+    [Parameter]
+    public string ClassName { get; set; } = "";
+
+    [Parameter]
+    public string HrefName { get; set; } = "";
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

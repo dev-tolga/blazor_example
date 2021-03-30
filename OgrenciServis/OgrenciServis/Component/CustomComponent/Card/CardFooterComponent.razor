@@ -1,0 +1,12 @@
+﻿@using OgrenciServis.Component.BaseComponent
+
+<DivComponent ClassName="card-footer" StyleName="@styleName">
+    @ChildContent
+</DivComponent>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    private string styleName = "background-image: linear-gradient(90deg, #23074d 0%, #cc5333 70%)";
+}

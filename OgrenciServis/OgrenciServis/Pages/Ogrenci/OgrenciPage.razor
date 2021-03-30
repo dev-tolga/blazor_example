@@ -1,0 +1,45 @@
+﻿@page "/ogrenci"
+@inherits OgrenciPageBase
+@inject IJSRuntime JsRunTime
+@using OgrenciServis.Component.BaseComponent
+@using OgrenciServis.Component.CustomComponent.Card
+
+<CardComponent>
+    <CardHeaderComponent>
+    </CardHeaderComponent>
+    <CardBodyComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Okul Adını giriniz."
+                       @bind-value="@OgrenciObject.AdSoyad"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <ComboBoxComponent ObjectList="okulList.Cast<object>().ToList()"
+                                   KolonNames="OkulAd"
+                                   OnChanged="OnChangedOkul"
+                                   SelectedChangedID="selectedOkulId" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <ButtonComponent ClassName="btn btn-success float-right"
+                                 ButtonName="Kaydet"
+                                 OnClick="OgrenciKaydet"
+                                 IsPopupBtn="false" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <TableComponent KolonNames="kolonVeliIsimleri"
+                                ObjectList="ogrenciList.Cast<object>().ToList()" />
+            </DivComponent>
+        </DivComponent>
+    </CardBodyComponent>
+    <CardFooterComponent></CardFooterComponent>
+</CardComponent>
+

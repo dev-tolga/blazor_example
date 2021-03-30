@@ -1,0 +1,22 @@
+﻿<div class="@ClassName" role="@RoleName" @onclick="@OnClick" style="@StyleName">
+    @ChildContent
+</div>
+
+@code {
+
+    [Parameter]
+    public string ClassName { get; set; } = "";
+
+    [Parameter]
+    public string RoleName { get; set; } = "";
+
+    [Parameter]
+    public string StyleName { get; set; } = "";
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnClick { get; set; }
+}
+

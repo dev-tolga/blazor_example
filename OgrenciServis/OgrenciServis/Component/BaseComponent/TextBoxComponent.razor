@@ -1,0 +1,24 @@
+﻿@if (IsBind)
+{
+    <input type="text" class="form-control" placeholder="@PlaceHolderTxt" @bind="GetChangeValue" />
+}
+else
+{
+    <input type="text" class="form-control" placeholder="@PlaceHolderTxt"  name="testId1" id="testId1"/>
+    @*<input type="text" placeholder="Test Eleman" @bind-value="@obj" @bind-value:event="oninput" />*@
+}
+
+@code {
+    [Parameter]
+    public string PlaceHolderTxt { get; set; }
+    [Parameter]
+    public string GetChangeValue { get; set; }
+    /// <summary>
+    /// @bind özelliğinin eklenip eklenmemesini
+    /// ayarladığımız alandır
+    /// </summary>
+    [Parameter]
+    public bool IsBind { get; set; } = true;
+    [Parameter]
+    public object obj { get; set; }
+}

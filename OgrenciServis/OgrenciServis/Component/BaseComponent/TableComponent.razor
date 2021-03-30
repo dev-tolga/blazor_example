@@ -1,0 +1,40 @@
+﻿<div class="card">
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    @foreach (KeyValuePair<string, string> kolonAd in KolonNames)
+                    {
+                        <th scope="col">@kolonAd.Value</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var itemObject in ObjectList)
+                {
+                    <tr>
+                        @foreach (KeyValuePair<string, string> itemKolon in KolonNames)
+                        {
+                            <td>@itemObject.GetType().GetProperty(itemKolon.Key).GetValue(itemObject)</td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public List<Object> ObjectList { get; set; }
+
+    [Parameter]
+    public Dictionary<string, string> KolonNames { get; set; }
+
+    string[] kolonList { get; set; }
+
+    protected override void OnInitialized()
+    {
+        //kolonList = KolonNames.Split(',');
+    }
+}

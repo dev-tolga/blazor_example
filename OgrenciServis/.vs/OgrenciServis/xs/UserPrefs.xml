@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DB0CE9CE-A108-4F5A-8603-D2D80051279B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OgrenciServis/Pages/Index.razor">
+    <Files>
+      <File FileName="OgrenciServis/Component/BaseComponent/ATagComponent.razor" Line="1" Column="1" />
+      <File FileName="OgrenciServis/Data/Araba.cs" Line="1" Column="1" />
+      <File FileName="OgrenciServis/Pages/Araba/ArabaPage.razor" Line="1" Column="1" />
+      <File FileName="OgrenciServis/Pages/Index.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OgrenciServis" expanded="True">
+            <Node name="OgrenciServis" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OgrenciServis PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

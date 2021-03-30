@@ -1,0 +1,32 @@
+﻿@if (!IsPopupBtn)
+{
+    <button @onclick="OnClick" style="@StyleStr" class="@ClassName">
+        @ButtonName
+        @ChildContent
+    </button>
+}
+else
+{
+    <button @onclick="OnClick" style="@StyleStr" class="@ClassName" data-toggle="modal" data-target="#@DataTargetStr">
+        @ButtonName
+        @ChildContent
+    </button>
+}
+
+
+@code {
+    [Parameter]
+    public string ClassName { get; set; } = "";
+    [Parameter]
+    public string ButtonName { get; set; } = "";
+    [Parameter]
+    public string StyleStr { get; set; } = "";
+    [Parameter]
+    public bool IsPopupBtn { get; set; } = false;
+    [Parameter]
+    public string DataTargetStr { get; set; } = "";
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnClick { get; set; }
+}

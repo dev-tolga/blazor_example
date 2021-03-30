@@ -1,0 +1,21 @@
+﻿@page "/"
+@inject IJSRuntime JsRunTime;
+@using OgrenciServis.Component.CustomComponent.Popup
+
+<h1>Öğrenci Bilgilendirme Sistemi hakkında bültenler içermektedir.</h1>
+@*<input type="button" value="Invoke JS" @onclick="invokeJsFunction"/>*@
+
+<span>@DisplayValue</span>
+
+<PopupStatusComponent StatusDurum="alert alert-success" Title="Kayıt işlemi başarılı bir şekilde gerçekleştirilmiştir." ModalId="testSercan" />
+
+@code{
+    public string DisplayValue = "";
+
+
+    public async Task invokeJsFunction()
+    {
+        DisplayValue = await JsRunTime.InvokeAsync<string>("JsInteropFunction", new object[] { "Hello" });
+        StateHasChanged();
+    }
+}

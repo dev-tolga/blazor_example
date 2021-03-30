@@ -1,0 +1,287 @@
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.exe
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.deps.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.dev.json
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.dll
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.pdb
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.dll
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.Manifest.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.xml
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorComponent.input.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ATagComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ButtonComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/DivComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ITagComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/LabelComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/SpanComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TableComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Araba/ArabaPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Error.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Hostes/HostesPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Ogrenci/OgrenciPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Okul/OkulPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Sofor/SoforPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/OgrenciServis.dll
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.input.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.output.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorCoreGenerate.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ATagComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ButtonComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/DivComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ITagComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/LabelComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/SpanComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TableComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TextBoxComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Araba/ArabaPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Error.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Hostes/HostesPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Ogrenci/OgrenciPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Okul/OkulPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Sofor/SoforPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPage.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfoInputs.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfo.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cache
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cs
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.dll
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.pdb
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csproj.CopyComplete
+C:/Users/Sercan YILDIRIM/source/repos/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csprojAssemblyReference.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.exe
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.deps.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.dev.json
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.dll
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.pdb
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.dll
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csprojAssemblyReference.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.Manifest.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.xml
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorComponent.input.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ATagComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ButtonComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/DivComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ITagComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/LabelComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/SpanComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TableComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Araba/ArabaPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Error.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Hostes/HostesPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Ogrenci/OgrenciPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Okul/OkulPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Sofor/SoforPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/OgrenciServis.dll
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.input.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.output.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorCoreGenerate.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ATagComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ButtonComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/DivComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ITagComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/LabelComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/SpanComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TableComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TextBoxComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Araba/ArabaPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Error.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Hostes/HostesPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Ogrenci/OgrenciPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Okul/OkulPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Sofor/SoforPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPage.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfoInputs.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfo.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cache
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cs
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.dll
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.pdb
+C:/Users/Tolga/Desktop/Secan Calısmalar Iyı/New folder/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csproj.CopyComplete
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.deps.json
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.json
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.runtimeconfig.dev.json
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.dll
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.pdb
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.dll
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/bin/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csprojAssemblyReference.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfoInputs.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.AssemblyInfo.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csproj.CoreCompileInputs.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.MvcApplicationPartsAssemblyInfo.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorComponent.input.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ATagComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ButtonComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/DivComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/ITagComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/LabelComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/SpanComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TableComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/BaseComponent/TextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Araba/ArabaPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Error.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Hostes/HostesPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Ogrenci/OgrenciPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Okul/OkulPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Sofor/SoforPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorComponent.output.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/RazorDeclaration/OgrenciServis.dll
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.input.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.TagHelpers.output.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorCoreGenerate.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ATagComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ButtonComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ComboBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/DivComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/InputTextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/ITagComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/LabelComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/SpanComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TableComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TestTextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/BaseComponent/TextBoxComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardBodyComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardFooterComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Card/CardHeaderComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/LeftMenuComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Component/CustomComponent/Popup/PopupStatusComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Araba/ArabaPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Error.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Hostes/HostesPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Ogrenci/OgrenciPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Okul/OkulPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Sofor/SoforPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPage.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPageOgrenciPopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/Veli/VeliPagePopupComponent.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorAssemblyInfo.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.Manifest.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/staticwebassets/OgrenciServis.StaticWebAssets.xml
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/scopedcss/bundle/OgrenciServis.styles.css
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.RazorTargetAssemblyInfo.cs
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.Views.pdb
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.dll
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.pdb
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.genruntimeconfig.cache
+/Users/tolgakeser/Projects/OgrenciServis/OgrenciServis/obj/Debug/netcoreapp3.1/OgrenciServis.csproj.CopyComplete

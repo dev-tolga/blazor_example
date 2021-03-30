@@ -1,0 +1,11 @@
+﻿
+<input type="text"
+       class="form-control btn-block"
+       placeholder="Hostes adını giriniz."
+       @bind-value="@BindValue"
+       @bind-value:event="oninput" />
+
+@code {
+
+    public string BindValue { get; set; }
+}

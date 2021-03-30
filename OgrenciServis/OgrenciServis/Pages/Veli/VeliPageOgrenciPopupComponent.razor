@@ -1,0 +1,43 @@
+﻿@using OgrenciServis.Component.CustomComponent.Popup
+@using OgrenciServis.Component.CustomComponent.Card
+@using OgrenciServis.Component.BaseComponent
+@inherits VeliPageBase
+
+<PopupComponent ModalName="@ModalName" ModalHeaderName="Okul Kayıt Ekranı" zIndex="@zIndex">
+    <CardComponent>
+        <CardBodyComponent>
+            <DivComponent ClassName="form-group row">
+                <DivComponent ClassName="col-sm-12">
+                    <ComboBoxComponent ObjectList="OkulListesi.Cast<object>().ToList()" KolonNames="OkulAd" OnChanged="OnChangedOkulPopup" SelectedChangedID="SelectedPopupOkulId" />
+                </DivComponent>
+            </DivComponent>
+            <DivComponent ClassName="form-group row">
+                <DivComponent ClassName="col-sm-12">
+                    <ButtonComponent ClassName="btn btn-success btn-block" ButtonName="Öğrenci Ekle" IsPopupBtn="false"  OnClick="PopuptanOgrenciEkle"/>
+                </DivComponent>
+            </DivComponent>
+        </CardBodyComponent>
+    </CardComponent>
+</PopupComponent>
+
+@code {
+
+    [Parameter]
+    public string ModalName { get; set; } = "";
+    [Parameter]
+    public int zIndex { get; set; } = 0;
+    [Parameter]
+    public List<OgrenciServis.Data.Okul> OkulListesi { get; set; }
+    [Parameter]
+    public int SelectedPopupOkulId { get; set; }
+    [Parameter]
+    public List<OgrenciServis.Data.Ogrenci> OgrenciList { get; set; }
+    [Parameter]
+    public EventCallback<MouseEventArgs> PopuptanOgrenciEkle { get; set; }
+
+    public void OnChangedOkulPopup(ChangeEventArgs e)
+        {
+            SelectedPopupOkulId = int.Parse(e.Value.ToString());
+            ogrenciListByOkul = ogrenciyiOkulaGoreGetir(int.Parse(e.Value.ToString()));
+        }
+}

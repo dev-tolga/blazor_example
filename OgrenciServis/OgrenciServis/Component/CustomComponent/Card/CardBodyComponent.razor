@@ -1,0 +1,10 @@
+﻿@using OgrenciServis.Component.BaseComponent
+
+<DivComponent ClassName="card-body">
+    @ChildContent
+</DivComponent>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

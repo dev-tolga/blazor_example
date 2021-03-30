@@ -1,0 +1,66 @@
+﻿@page "/veli"
+@inherits VeliPageBase
+@inject IJSRuntime JsRunTime;
+@using OgrenciServis.Component.BaseComponent
+@using OgrenciServis.Component.CustomComponent
+@using OgrenciServis.Component.CustomComponent.Card
+@using OgrenciServis.Component.CustomComponent.Popup
+
+<CardComponent>
+    <CardHeaderComponent>
+    </CardHeaderComponent>
+    <CardBodyComponent>
+        <DivComponent ClassName="form-group row">
+            <LabelComponent ClassName="col-sm-2 col-form-label" Title="Okul" />
+            <DivComponent ClassName="col-sm-9">
+                <ComboBoxComponent ObjectList="okulList.Cast<object>().ToList()" KolonNames="OkulAd" OnChanged="OnChangedOkul" SelectedChangedID="selectedOkulId" />
+            </DivComponent>
+            <DivComponent ClassName="col-sm-1">
+                <ButtonComponent ButtonName=""
+                                 ClassName="btn btn-warning btn-block"
+                                 StyleStr="border:1px solid #ced4da;background-color: #cc5333;"
+                                 IsPopupBtn="true"
+                                 DataTargetStr="OkulPopupId">
+                    <ITagComponent ClassName="oi iconify" DataIconName="emojione:school" FontSize="20px" />
+                </ButtonComponent>
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <LabelComponent ClassName="col-sm-2 col-form-label" Title="Öğrenci" />
+            <DivComponent ClassName="col-sm-9">
+                <ComboBoxComponent ObjectList="ogrenciListByOkul.Cast<object>().ToList()" KolonNames="AdSoyad" OnChanged="onChangedOgrenci" SelectedChangedID="selectedOgrenciId" />
+            </DivComponent>
+            <DivComponent ClassName="col-sm-1">
+                <ButtonComponent ButtonName=""
+                                 ClassName="btn btn-warning btn-block"
+                                 StyleStr="border:1px solid #ced4da;background-color: #cc5333;"
+                                 IsPopupBtn="true"
+                                 DataTargetStr="OgrenciKaydetPopupId">
+                    <ITagComponent ClassName="oi iconify" DataIconName="flat-color-icons:graduation-cap" FontSize="20px" />
+                </ButtonComponent>
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-5"></DivComponent>
+            <DivComponent ClassName="col-sm-5"></DivComponent>
+            <DivComponent ClassName="col-sm-2">
+                <ButtonComponent ClassName="btn btn-success btn-block" ButtonName="Ekle" OnClick="Ekle" StyleStr="@EkleBtnStyleStr" IsPopupBtn="false" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <TableComponent KolonNames="kolonVeliIsimleri" ObjectList="VeliList.Cast<object>().ToList()" />
+            </DivComponent>
+        </DivComponent>
+    </CardBodyComponent>
+    <CardFooterComponent></CardFooterComponent>
+</CardComponent>
+
+<PopupStatusComponent StatusDurum="alert alert-success" Title="Kayıt işlemi başarılı bir şekilde gerçekleştirilmiştir." ModalId="modalKayitBasarili" zIndex="1051"/>
+<PopupStatusComponent StatusDurum="alert alert-danger" Title="Lütfen öğrenci secimi yapınız" ModalId="modalKayitAlert" zIndex="1051"/>
+<VeliPagePopupComponent ModalName="OkulPopupId" Ekle="KaydetOkul" @ref="veliPagePopupComponent" zIndex="1050"/>
+<VeliPageOgrenciPopupComponent ModalName="OgrenciKaydetPopupId" @ref="veliPageOgrenciPopupComponent" zIndex="1050" OkulListesi="okulList" PopuptanOgrenciEkle="PopuptanOgrenciKaydet"/>
+
+@code{
+    
+}

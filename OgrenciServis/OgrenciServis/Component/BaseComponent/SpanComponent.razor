@@ -1,0 +1,11 @@
+﻿<span class="@ClassName">
+    @ChildContent
+</span>
+
+@code {
+    [Parameter]
+    public string ClassName { get; set; }= "";
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

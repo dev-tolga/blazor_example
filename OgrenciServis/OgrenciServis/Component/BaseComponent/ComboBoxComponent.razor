@@ -1,0 +1,32 @@
+﻿<select class="form-control" data-live-search="true" @onchange="OnChanged">
+    @foreach (var itemObject in ObjectList)
+    {
+        @foreach (var itemKolon in kolonList)
+        {
+            <option value="@itemObject.GetType().GetProperty("Id").GetValue(itemObject)"
+                    selected="@(int.Parse(itemObject.GetType().GetProperty("Id").GetValue(itemObject).ToString()) == SelectedChangedID)">
+                @itemObject.GetType().GetProperty(itemKolon).GetValue(itemObject)
+            </option>
+        }
+    }
+</select>
+@code {
+    [Parameter]
+    public EventCallback<ChangeEventArgs> OnChanged { get; set; }
+
+    [Parameter]
+    public List<Object> ObjectList { get; set; }
+
+    [Parameter]
+    public string KolonNames { get; set; }
+
+    [Parameter]
+    public int SelectedChangedID { get; set; } = 0;
+
+    string[] kolonList { get; set; }
+
+    protected override void OnInitialized()
+    {
+        kolonList = KolonNames.Split(',');
+    }
+}

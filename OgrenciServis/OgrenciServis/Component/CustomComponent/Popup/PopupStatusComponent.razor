@@ -1,0 +1,31 @@
+﻿<!-- Modal -->
+<div class="modal fade" id="@ModalId" tabindex="-1" role="dialog" aria-labelledby="@ModalId" aria-hidden="true" style="z-index:@zIndex">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header @StatusDurum" style="margin-bottom:0px">
+                @Title
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+    /// <summary>
+    /// alert alert-success
+    /// alert alert-primary
+    /// alert alert-secondary
+    /// alert alert-danger
+    /// alert alert-warning
+    /// alert alert-info
+    /// alert alert-light
+    /// alert alert-dark
+    /// </summary>
+    [Parameter]
+    public string StatusDurum { get; set; }
+    [Parameter]
+    public string ModalId { get; set; } = "";
+    [Parameter]
+    public int zIndex { get; set; } = 0;
+}

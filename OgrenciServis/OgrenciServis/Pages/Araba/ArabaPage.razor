@@ -1,0 +1,82 @@
+﻿@page "/araba"
+
+@inject IJSRuntime JsRunTime
+@using OgrenciServis.Component.BaseComponent
+@using OgrenciServis.Component.CustomComponent.Card
+
+
+<CardComponent>
+    <CardHeaderComponent Title="Şoför Detay">
+    </CardHeaderComponent>
+    <CardBodyComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Plaka Giriniz."
+                       @bind-value="@ArabaObject.ArabaPlaka"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Hostes soyadını giriniz."
+                       @bind-value="@ArabaObject.KoldukSayisi"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Araba markası giriniz."
+                       @bind-value="@ArabaObject.Marka"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <ButtonComponent ClassName="btn btn-success float-right"
+                                 ButtonName="Kaydet"
+                                 OnClick="ArabaKaydet"
+                                 IsPopupBtn="false" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <TableComponent KolonNames="kolonVeliIsimleri"
+                                ObjectList="ArabaList.Cast<object>().ToList()" />
+            </DivComponent>
+        </DivComponent>
+    </CardBodyComponent>
+    <CardFooterComponent></CardFooterComponent>
+</CardComponent>
+
+@code {
+    public OgrenciServis.Data.Araba ArabaObject;
+    public List<OgrenciServis.Data.Araba> ArabaList;
+    public Dictionary<string, string> kolonVeliIsimleri;
+
+    protected override void OnInitialized()
+    {
+        ArabaObject = new Data.Araba();
+        ArabaList = new List<Data.Araba>();
+        kolonIsmiDoldur();
+    }
+
+    public void kolonIsmiDoldur()
+    {
+        kolonVeliIsimleri = new Dictionary<string, string>();
+        kolonVeliIsimleri.Add("Id", "Id");
+        kolonVeliIsimleri.Add("Marka", "Marka");
+        kolonVeliIsimleri.Add("ArabaPlaka", "Plaka");
+        kolonVeliIsimleri.Add("KoldukSayisi", "Koltuk Sayısı");
+    }
+
+    public void ArabaKaydet()
+    {
+        ArabaList.Add(new Data.Araba { Id=0,ArabaPlaka=ArabaObject.ArabaPlaka,KoldukSayisi=ArabaObject.KoldukSayisi,Marka=ArabaObject.Marka});
+    }
+}

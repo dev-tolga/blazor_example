@@ -1,0 +1,26 @@
+﻿<!-- Modal -->
+<div class="modal fade" id="@ModalName" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" style="z-index:@zIndex">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header" style="background-image: linear-gradient(90deg, #23074d 10%, #cc5333 70%)">
+                <label style="color:white">@ModalHeaderName</label>
+            </div>
+            <div class="modal-body">
+                @ChildContent
+            </div>
+            <div class="modal-footer" style="background-image: linear-gradient(90deg, #23074d 10%, #cc5333 70%)">
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+    [Parameter]
+    public string ModalName { get; set; }
+    [Parameter]
+    public string ModalHeaderName { get; set; } = "";
+    [Parameter]
+    public int zIndex { get; set; } = 0;
+}

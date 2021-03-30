@@ -1,0 +1,40 @@
+﻿@using OgrenciServis.Component.CustomComponent.Popup
+@using OgrenciServis.Component.CustomComponent.Card
+@using OgrenciServis.Component.BaseComponent
+
+<PopupComponent ModalName="@ModalName" ModalHeaderName="Okul Kayıt Ekranı" zIndex="@zIndex">
+    <CardComponent>
+        <CardBodyComponent>
+            <DivComponent ClassName="form-group row">
+                <DivComponent ClassName="col-sm-12">
+                    <TextBoxComponent PlaceHolderTxt="Okul adı girişi yapınız!" @ref="textBoxComponent" />
+                </DivComponent>
+            </DivComponent>
+            <DivComponent ClassName="form-group row">
+                <DivComponent ClassName="col-sm-12">
+                    <ButtonComponent ClassName="btn btn-success btn-block" ButtonName="Ekle" OnClick="Ekle" IsPopupBtn="false" />
+                </DivComponent>
+            </DivComponent>
+        </CardBodyComponent>
+    </CardComponent>
+</PopupComponent>
+
+@code {
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+    [Parameter]
+    public string ModalName { get; set; }
+    [Parameter]
+    public int zIndex { get; set; } = 0;
+
+    private string getChangeValueOkulAd;
+
+    public string GetChangeValueOkulAd
+    {
+        get { return textBoxComponent.GetChangeValue; }
+    }
+    [Parameter]
+    public EventCallback<MouseEventArgs> Ekle { get; set; }
+
+    private TextBoxComponent textBoxComponent;
+}

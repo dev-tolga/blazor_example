@@ -1,0 +1,8 @@
+﻿<input type="text" class="form-control" placeholder="@PlaceHolderTxt" @bind="BindTxt">
+
+@code {
+    [Parameter]
+    public string PlaceHolderTxt { get; set; }
+    [Parameter]
+    public string BindTxt { get; set; }
+}

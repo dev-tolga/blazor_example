@@ -1,0 +1,53 @@
+﻿@page "/sofor"
+@inherits SoforPageBase
+@inject IJSRuntime JsRunTime
+@using OgrenciServis.Component.BaseComponent
+@using OgrenciServis.Component.CustomComponent.Card
+
+<CardComponent>
+    <CardHeaderComponent>
+    </CardHeaderComponent>
+    <CardBodyComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <ComboBoxComponent ObjectList="ArabaList.Cast<object>().ToList()"
+                                   KolonNames="ArabaPlaka"
+                                   OnChanged="OnChangedAraba"
+                                   SelectedChangedID="SelectedArabaId" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Hostes adını giriniz."
+                       @bind-value="@SoforObject.SoforAd"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <input type="text"
+                       class="form-control btn-block"
+                       placeholder="Hostes soyadını giriniz."
+                       @bind-value="@SoforObject.SoforSoyad"
+                       @bind-value:event="oninput" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <ButtonComponent ClassName="btn btn-success float-right"
+                                 ButtonName="Kaydet"
+                                 OnClick="SoforKaydet"
+                                 IsPopupBtn="false" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <TableComponent KolonNames="kolonVeliIsimleri"
+                                ObjectList="soforList.Cast<object>().ToList()" />
+            </DivComponent>
+        </DivComponent>
+    </CardBodyComponent>
+    <CardFooterComponent></CardFooterComponent>
+</CardComponent>

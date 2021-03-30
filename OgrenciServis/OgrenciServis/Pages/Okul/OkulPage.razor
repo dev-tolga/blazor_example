@@ -1,0 +1,26 @@
+﻿@page "/okul"
+@inherits OkulPageBase
+@inject IJSRuntime JsRunTime
+@using OgrenciServis.Component.BaseComponent
+@using OgrenciServis.Component.CustomComponent.Card
+
+<CardComponent>
+    <CardHeaderComponent>
+    </CardHeaderComponent>
+    <CardBodyComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-8">
+                <input type="text" class="form-control btn-block"  placeholder="Okul Adını giriniz." @bind-value="@okulObject.OkulAd" @bind-value:event="oninput" />
+            </DivComponent>
+            <DivComponent ClassName="col-sm-4">
+                <ButtonComponent ClassName="btn btn-success btn-block" ButtonName="Kaydet" OnClick="OkulKaydet" IsPopupBtn="false" />
+            </DivComponent>
+        </DivComponent>
+        <DivComponent ClassName="form-group row">
+            <DivComponent ClassName="col-sm-12">
+                <TableComponent KolonNames="kolonVeliIsimleri" ObjectList="okulList.Cast<object>().ToList()" />
+            </DivComponent>
+        </DivComponent>
+    </CardBodyComponent>
+    <CardFooterComponent></CardFooterComponent>
+</CardComponent>
